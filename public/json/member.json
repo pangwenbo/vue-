@@ -1,0 +1,71 @@
+{
+        "head": {
+                "code": "000",
+                "message": "查询成功"
+        },
+        "body": {
+                "data": [
+                        {
+                                "area": "",
+                                "userNum": "1",
+                                "signature": "签名",
+                                "nickName": "测试用户1",
+                                "sex": "男",
+                                "mobile": "13999999999",
+                                "remark": "",
+                                "type": "oto",
+                                "userName": "ce2",
+                                "realName": "测试用户1",
+                                "areaCode": "",
+                                "headPortrait": "",
+                                "realNameInitials": "CE",
+                                "email": ""
+                        },
+                        {
+                                "area": "",
+                                "userNum": "2",
+                                "signature": "签名",
+                                "nickName": "测试用户2",
+                                "sex": "男",
+                                "mobile": "13999999999",
+                                "remark": "",
+                                "type": "oto",
+                                "userName": "ce2",
+                                "realName": "测试用户2",
+                                "areaCode": "",
+                                "headPortrait": "",
+                                "realNameInitials": "CE",
+                                "email": ""
+                        },
+                        {
+                                "area": "",
+                                "userNum": "3",
+                                "signature": "签名",
+                                "nickName": "测试用户3",
+                                "sex": "男",
+                                "mobile": "13999999999",
+                                "remark": "",
+                                "type": "oto",
+                                "userName": "ce3",
+                                "realName": "测试用户3",
+                                "areaCode": "",
+                                "headPortrait": "",
+                                "realNameInitials": "CE",
+                                "email": ""
+                        },
+                        {
+                                "area": "",
+                                "groupName": "测试群1",
+                                "areaCode": "",
+                                "groupOwner": "1",
+                                "groupNameInitials": "#",
+                                "mobile": "",
+                                "groupNum": "037a0603dd994be19befd1e561274395",
+                                "remark": "",
+                                "groupSignature": "",
+                                "type": "otm",
+                                "headPortrait": ""
+                        }
+                ]
+        }
+}

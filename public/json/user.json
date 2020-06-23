@@ -1,0 +1,23 @@
+{
+        "head": {
+                "code": "000",
+                "message": "请求成功"
+        },
+        "body": {
+                "data": {
+                        "userNum": "1",
+                        "userName": "用户名",
+                        "realName": "真实姓名",
+                        "realNameInitials": "ZHEN",
+                        "nickname": "昵称",
+                        "headPortrait": "头像",
+                        "sex": "性别",
+                        "mobile": "手机",
+                        "email": "邮箱",
+                        "signature": "武汉加油，中国加油！",
+                        "remark": "备注",
+                        "areaCode": "地区code",
+                        "area": "地区"
+                }
+        }
+}
